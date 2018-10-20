@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/logo">
+        <file>mcalib.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>metric12.png</file>
+    </qresource>
+</RCC>
